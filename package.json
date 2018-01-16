@@ -1,0 +1,17 @@
+{
+  "name": "smooth-div-scroll",
+  "version": "1.0.0",
+  "description": "An npm wrapper for the smooth-div-scroll",
+  "author": "Gabriel Pinheiro <gabrielpcosta@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ogabrielp/Smooth-Div-Scroll"
+  },
+  "keywords": [
+    "scroll",
+    "jquery",    
+    "smooth"
+  ],
+  "analyze": true,
+  "license": "MIT"
+}
